@@ -30,7 +30,6 @@ AI-SQL-Assistant/
 ├── app.py
 ├── create_db.py
 ├── employees.db
-├── requirements.txt
 └── README.md
 ```
 
